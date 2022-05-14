@@ -18,7 +18,7 @@
 
                         <div class="line" style="margin: 30px 0;"></div>
 
-                        <p class="ls1 font-weight-light" style="opacity: 0.6; font-size: 13px;">Copyrights &copy; 2020 Hatem Mohamed: Real Estate</p>
+                        <p class="ls1 font-weight-light" style="opacity: 0.6; font-size: 13px;">Copyrights &copy; 2021 Hamza ALyemeni: Real Estate</p>
 
                     </div>
 
